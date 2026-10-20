@@ -154,7 +154,7 @@ py -3.11 --version
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/abhijeet6225/langgraph_chatbot.git
+git clone https://github.com/abhijeetkumar6225/langgraph_chatbot.git
 
 cd langgraph_chatbot
 ```
