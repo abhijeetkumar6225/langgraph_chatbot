@@ -1,0 +1,12 @@
+ddgs
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-sqlite
+pypdf
+python-dotenv
+requests
+beautifulsoup4
+streamlit
